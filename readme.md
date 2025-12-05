@@ -1,6 +1,6 @@
 # RS-BNN: A Deep Learning Framework for the Optimal Beamforming Design of Rate-Splitting Multiple Access
 
-This is a code package related to the following paper:
+This is a code package related to the following [paper](https://ieeexplore.ieee.org/document/10586792):
 
 Y. Wang, Y. Mao and S. Ji, "RS-BNN: A Deep Learning Framework for the Optimal Beamforming Design of Rate-Splitting Multiple Access," in *IEEE Transactions on Vehicular Technology*, vol. 73, no. 11, pp. 17830-17835, Nov. 2024, doi: 10.1109/TVT.2024.3423002. 
 
